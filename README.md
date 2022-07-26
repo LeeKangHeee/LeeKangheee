@@ -49,6 +49,17 @@ Here are some ideas to get you started:
 </div>
 <br />
 
+</div>
+<br />
+<div align="center">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<br />
+</div>
+
+
+
+
 <br /><br />
 <br /><br />
 <br /><br />
